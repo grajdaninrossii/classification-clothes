@@ -1,4 +1,5 @@
-# Классификация типов одежды
-Скрипты для обработки датасета под обучение модели классификации одежды, а также для хранения и обработки сервером.
+# Classification of clothing
+Scrpits for processing dataset for training a clothing classification model, as well as for storing and processing by the true-style-server.
 
-В папку ml_models представлено модель классификации типов одежды, с точностью предсказания до 80 процентов. Модель основанна на архитектуре MobileNetV3. Также имеются скрипты для дообучения данной модели, ее тестирования и предварительной обработки исходного датасета (fashion-dataset).
+ml_models includes models of classification clothing with a predicition top-1 accuracy of up to 80%, scripts for learining and test model.
+The model is based on the Mobile Net V3 architecture.
